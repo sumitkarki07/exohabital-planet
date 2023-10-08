@@ -1,1 +1,2 @@
 # exohabital-planet
+EXOpedia is a website that gives information about exohabital planets beyond the earth. the first page of the website is the homepage. there you can find the link (click to explore our planet) it will take you to the world we imagined and created. all the information we used is references from other habitual planets. you can also find some already-discovered planets on the homepage .
